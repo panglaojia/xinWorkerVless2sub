@@ -7,6 +7,20 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
+	
+];
+
+// 设置优选地址api接口
+let addressesapi = [
+	'https://zidongyouxuan.pages.dev/ip.txt?token=OKOKOK', //可参考内容格式 自行搭建。
+	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
+];
+
+ 设置优选地址，不带端口号默认80，noTLS订阅生成
+let addressesnotls = [
+	'www.visa.com.sg#官方优选域名',
+	'www.wto.org:8080#官方优选域名',
+	'www.who.int:8880#官方优选域名',
 	'www.4chan.org',
 'whatismyipaddress.com',
 'www.d-555.com',
@@ -46,19 +60,6 @@ let addresses = [
 'www.gco.gov.qa',
 'www.udemy.com',
 'www.wto.org',
-];
-
-// 设置优选地址api接口
-let addressesapi = [
-	'https://zidongyouxuan.pages.dev/ip.txt?token=OKOKOK', //可参考内容格式 自行搭建。
-	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
-];
-
-// 设置优选地址，不带端口号默认80，noTLS订阅生成
-let addressesnotls = [
-	'www.visa.com.sg#官方优选域名',
-	'www.wto.org:8080#官方优选域名',
-	'www.who.int:8880#官方优选域名',
 ];
 
 // 设置优选noTLS地址api接口
