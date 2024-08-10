@@ -671,14 +671,14 @@ export default {
 					}
 				}
 				
-				let 伪装域名 = 'test.xinqifei.us.kg ;
+				let 伪装域名 = ;
 				let 最终路径 = path ;
 				let 节点备注 = EndPS ;
 				if(proxyhosts && (host.includes('.workers.dev') || host.includes('pages.dev'))) {
 					最终路径 = `/${host}${path}`;
 					伪装域名 = proxyhosts[Math.floor(Math.random() * proxyhosts.length)];
-					节点备注 = `${EndPS} 优选订阅器`;
-					sni = 'xinqifeo.pages.dev;
+					节点备注 = `${EndPS} 订阅器`;
+					sni = ;
 				}
 
 				if (协议类型 == 'Trojan'){
