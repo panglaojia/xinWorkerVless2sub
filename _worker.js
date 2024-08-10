@@ -677,7 +677,7 @@ export default {
 				if(proxyhosts && (host.includes('.workers.dev') || host.includes('pages.dev'))) {
 					最终路径 = `/${host}${path}`;
 					伪装域名 = proxyhosts[Math.floor(Math.random() * proxyhosts.length)];
-					节点备注 = `${EndPS} 订阅器`;
+					节点备注 = `${EndPS} 已启用临时域名中转服务，请尽快绑定自定义域！`;
 					sni = ;
 				}
 
