@@ -670,7 +670,7 @@ export default {
 					}
 				}
 				
-				let 伪装域名 = 'xinqifeo.pages.dev';
+				let 伪装域名 = 'xinworkervless2sub.pages.dev';
 				let 最终路径 = path ;
 				let 节点备注 = EndPS ;
 				if(proxyhosts && (host.includes('.workers.dev') || host.includes('pages.dev'))) {
