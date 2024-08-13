@@ -10,7 +10,6 @@ let addresses = [
         'www.visakorea.com',
         ' www.d-555.com',
         'whatismyipaddress.com',
-        'www.4chan.org',
 ];
 
 // 设置优选地址api接口
