@@ -8,6 +8,7 @@ let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
 	'www.visa.com.tw:8443',
+	'king361.fxxk.dedyn.io:443',
 ];
 
 // 设置优选地址api接口
