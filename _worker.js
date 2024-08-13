@@ -7,6 +7,7 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
+	'www.visa.com.tw:8443',
 ];
 
 // 设置优选地址api接口
@@ -19,7 +20,8 @@ let addressesapi = [
 let addressesnotls = [
 	'www.visa.com.sg#官方优选域名',
 	'www.wto.org:8080#官方优选域名',
-	'www.who.int:8880#官方优选域名',	
+	'www.who.int:8880#官方优选域名',
+	'www.visa.com.tw:80',
 ];
 
 // 设置优选noTLS地址api接口
