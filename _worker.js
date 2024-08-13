@@ -7,9 +7,7 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'www.visa.com.tw:8443',
 	'king361.fxxk.dedyn.io:443',
-	'www.visa.com.tw',
-	'www.visakorea.com',
-        'www.sean-now.com',
+        'www.visakorea.com',
         ' www.d-555.com',
         'whatismyipaddress.com',
         'www.4chan.org',
