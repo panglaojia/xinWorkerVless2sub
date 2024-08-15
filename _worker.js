@@ -12,6 +12,9 @@ let addresses = [
 	'achk.cloudflarest.link:443',
 	'cf.877771.xyz:443',
 	'cloudflare.182682.xyz:443',
+	'www.sihutv.vip:443',
+	'acjp.cloudflarest.link:443',
+	'achk.cloudflarest.link:443',
 ];
 
 // 设置优选地址api接口
