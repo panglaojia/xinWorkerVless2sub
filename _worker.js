@@ -7,6 +7,8 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'www.visa.com.tw:8443',
 	'king361.fxxk.dedyn.io:443',
+	'cf.zhetengsha.eu.org:443',
+	'cf.090227.xyz:443',
 ];
 
 // 设置优选地址api接口
