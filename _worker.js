@@ -9,12 +9,14 @@ let addresses = [
 	'king361.fxxk.dedyn.io:443',
 	'cf.zhetengsha.eu.org:443',
 	'cf.090227.xyz:443',
+	'achk.cloudflarest.link:443',
+	'cf.877771.xyz:443',
+	'cloudflare.182682.xyz:443',
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://zidongyouxuan.pages.dev/ip.txt?token=OKOKOK',
-	'https://ipdb.api.030101.xyz/?type=bestproxy&country=true', //可参考内容格式 自行搭建。
+	'https://zidongyouxuan.pages.dev/ip.txt?token=OKOKOK', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
