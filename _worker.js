@@ -17,6 +17,7 @@ let addresses = [
 	'achk.cloudflarest.link:443',
 	'cf.akaagiao.link:443',
 	'ak.yydsb.link:443',
+	'1.achen.link:443',
 ];
 
 // 设置优选地址api接口
