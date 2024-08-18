@@ -6,18 +6,6 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
 	'www.visa.com.tw:8443',
-	'king361.fxxk.dedyn.io:443',
-	'cf.zhetengsha.eu.org:443',
-	'cf.090227.xyz:443',
-	'achk.cloudflarest.link:443',
-	'cf.877771.xyz:443',
-	'cloudflare.182682.xyz:443',
-	'www.sihutv.vip:443',
-	'acjp.cloudflarest.link:443',
-	'achk.cloudflarest.link:443',
-	'cf.akaagiao.link:443',
-	'ak.yydsb.link:443',
-	'1.achen.link:443',
 ];
 
 // 设置优选地址api接口
