@@ -31,19 +31,3 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 138.3.223.50,8880,8880,false,NRT,Asia Pacific,Tokyo,86,11.47
 158.101.95.113,2095,2095,false,NRT,Asia Pacific,Tokyo,79,11.47
 138.3.216.67,2053,2053,true,NRT,Asia Pacific,Tokyo,91,11.47
-158.101.69.12,2086,2086,false,NRT,Asia Pacific,Tokyo,77,11.47
-132.145.112.168,2082,2082,false,NRT,Asia Pacific,Tokyo,71,11.46
-132.145.121.123,8080,8080,false,NRT,Asia Pacific,Tokyo,74,11.46
-152.70.106.195,80,80,false,NRT,Asia Pacific,Tokyo,72,11.46
-131.186.37.191,80,80,false,NRT,Asia Pacific,Tokyo,71,11.43
-151.145.68.104,2086,2086,false,NRT,Asia Pacific,Tokyo,86,11.41
-141.147.185.149,2087,2087,true,NRT,Asia Pacific,Tokyo,96,11.41
-132.145.123.159,2095,2095,false,NRT,Asia Pacific,Tokyo,88,11.40
-158.101.146.165,2052,2052,false,NRT,Asia Pacific,Tokyo,79,11.39
-151.145.68.104,8443,8443,true,NRT,Asia Pacific,Tokyo,91,11.39
-132.145.112.168,2053,2053,true,NRT,Asia Pacific,Tokyo,151,11.39
-150.230.21.156,443,443,true,FRA,Europe,Frankfurt,215,11.38
-132.145.125.165,2095,2095,false,NRT,Asia Pacific,Tokyo,85,11.37
-140.238.54.166,2096,2096,true,NRT,Asia Pacific,Tokyo,106,11.37
-152.70.55.20,443,443,true,FRA,Europe,Frankfurt,195,11.37
-141.147.166.95,80,80,false,NRT,Asia Pacific,Tokyo,69,11.37
