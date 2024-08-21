@@ -1,11 +1,11 @@
 IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-104.17.132.164 ,443,443,TRUE,优选ip,Europe,Frankfurt,195,11.6
+104.17.132.164,443,443,TRUE,优选ip,Europe,Frankfurt,195,11.6
 162.159.152.9,443,443,TRUE,优选ip,Europe,Frankfurt,195,11.6
-162.159.138.33,443,443,FALSE,优选ip,Asia Pacific,Tokyo,73,11.59
-162.159.137.23,443,443,FALSE,优选ip,Asia Pacific,Tokyo,69,11.59
-162.159.134.105,443,443,FALSE,优选ip,Asia Pacific,Tokyo,86,11.58
-162.159.153.227,443,443,FALSE,优选ip,Asia Pacific,Tokyo,71,11.58
-162.159.129.241,443,443,FALSE,优选ip,Asia Pacific,Tokyo,74,11.57
-162.159.128.46,443,443,TRUE,优选ip,Asia Pacific,Tokyo,86,11.57
-162.159.80.43,443,443,FALSE,优选ip,Asia Pacific,Tokyo,84,11.57
-190.93.246.41,443,443,FALSE,优选ip,Asia Pacific,Tokyo,84,11.56
+162.159.138.33,443,443,FALSE,优选ip,AsiaPacific,Tokyo,73,11.59
+162.159.137.23,443,443,FALSE,优选ip,AsiaPacific,Tokyo,69,11.59
+162.159.134.105,443,443,FALSE,优选ip,AsiaPacific,Tokyo,86,11.58
+162.159.153.227,443,443,FALSE,优选ip,AsiaPacific,Tokyo,71,11.58
+162.159.129.241,443,443,FALSE,优选ip,AsiaPacific,Tokyo,74,11.57
+162.159.128.46,443,443,TRUE,优选ip,AsiaPacific,Tokyo,86,11.57
+162.159.80.43,443,443,FALSE,优选ip,AsiaPacific,Tokyo,84,11.57
+190.93.246.41,443,443,FALSE,优选ip,AsiaPacific,Tokyo,84,11.56
